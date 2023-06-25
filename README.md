@@ -1,3 +1,5 @@
+https://priyansh121096.github.io/2048-docker/
+
 This is a dockerized version of the 2048 game cloned from https://github.com/gabrielecirulli/2048.
 
 To run locally:
