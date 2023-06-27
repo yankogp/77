@@ -1,6 +1,6 @@
 ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/agrawpri/2048-docker/latest)
 
-https://priyansh121096.github.io/2048-docker/
+Hosted on GitHub Pages: https://agrawpri.github.io/2048-docker/
 
 This is a dockerized version of the 2048 game cloned from https://github.com/gabrielecirulli/2048.
 
