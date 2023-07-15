@@ -4,9 +4,9 @@ Hosted on GitHub Pages: https://agrawpri.github.io/2048-docker/
 
 This is a dockerized version of the 2048 game cloned from https://github.com/gabrielecirulli/2048.
 
-## Local development
+# Local development
 
-#### Prerequisites
+### Prerequisites
 - docker
 - git (for development)
 
